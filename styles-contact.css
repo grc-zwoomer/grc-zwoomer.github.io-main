@@ -132,5 +132,6 @@ a{
 
 a:hover{
 	color: black ;
+	opacity: 70%;
 	background: green;
 }
